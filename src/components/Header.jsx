@@ -3,7 +3,7 @@ import React from 'react'
 function Header() {
   return <>
   {/* <!-- Masthead--> */}
-        <header className="masthead" style={{backgroundImage : `url("./src/components/img/img1.jpg")`}}>
+        <header className="masthead" style={{backgroundImage : `url("https://t4.ftcdn.net/jpg/01/87/47/59/240_F_187475954_KuDIRQZbGTwwyMTXZeRmojQH9YeSjrWt.jpg")`}}>
             <div className="container position-relative" >
                 <div className="row justify-content-center" >
                     <div className="col-xl-6" >
